@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+
+# Data files (students should download their own)
+*.jpg
+*.jpeg
+*.png
+*.mp4
+*.avi
+
+# Model weights
+*.pt
+*.pth
+*.onnx
+*.h5
+
+# OS
+.DS_Store
+Thumbs.db
